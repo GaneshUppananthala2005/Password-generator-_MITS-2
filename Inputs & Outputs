@@ -1,0 +1,7 @@
+Sample inputs :Enter password length: 11More actions
+Include letters? (y/n): y
+Include numbers? (y/n): n
+Include symbols? (y/n): y
+
+sample output:
+Generated password: CBI%N)Y&Ujp
